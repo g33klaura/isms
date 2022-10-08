@@ -1,5 +1,3 @@
 # isms
 
-Huzzah!
-
-...still huzzah?
+Still huzzah!
